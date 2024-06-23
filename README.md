@@ -5,12 +5,7 @@ Welcome to the "Guess My Number" game! This is a simple web-based game built wit
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
+  
 ## Features
 
 - Random number generation between a specified range.
