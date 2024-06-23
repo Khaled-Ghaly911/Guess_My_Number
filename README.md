@@ -13,12 +13,6 @@ Welcome to the "Guess My Number" game! This is a simple web-based game built wit
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## Demo
-
-You can play the game [here](#). (Link to your live demo)
-
-![Game Screenshot](screenshot.png) (Replace with actual screenshot)
-
 ## Features
 
 - Random number generation between a specified range.
