@@ -3,8 +3,6 @@
 Welcome to the "Guess My Number" game! This is a simple web-based game built with JavaScript, CSS, and HTML. The objective of the game is to guess the number that the computer has randomly selected.
 
 ## Table of Contents
-
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
